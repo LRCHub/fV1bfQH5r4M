@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Nonsense",
+  "base_artist": "夜々",
+  "createdAt": "2026-03-06T01:56:55.931826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nonsense Bungaku",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Nonsense_Bungaku_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nonsense (feat. Mark Foster)",
+      "artist": "Madeon feat. Mark Foster",
+      "has_synced": true,
+      "path": "select/02_Nonsense_(feat._Mark_Foster)_Madeon_feat._Mark_Foster.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stuff And Nonsense",
+      "artist": "Belinda Carlisle",
+      "has_synced": false,
+      "path": "select/03_Stuff_And_Nonsense_Belinda_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nonsense In the Dark",
+      "artist": "Filthy Dukes",
+      "has_synced": false,
+      "path": "select/04_Nonsense_In_the_Dark_Filthy_Dukes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nonsense In The Dark (feat. Orlando Weeks)",
+      "artist": "Filthy Dukes",
+      "has_synced": false,
+      "path": "select/05_Nonsense_In_The_Dark_(feat._Orlando_Weeks)_Filthy_Dukes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nautical Nonsense",
+      "artist": "Swashbuckle",
+      "has_synced": true,
+      "path": "select/06_Nautical_Nonsense_Swashbuckle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Nonsense Christmas",
+      "artist": "Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/07_A_Nonsense_Christmas_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nonsense",
+      "artist": "Madeon feat. Mark Foster",
+      "has_synced": true,
+      "path": "select/08_Nonsense_Madeon_feat._Mark_Foster.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/09_Nonsense_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nonsense (feat. Mark Foster)",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/10_Nonsense_(feat._Mark_Foster)_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nonsense Feat. Mark Foster",
+      "artist": "Madeon",
+      "has_synced": false,
+      "path": "select/11_Nonsense_Feat._Mark_Foster_Madeon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Plenty Nonsense",
+      "artist": "Femi Kuti",
+      "has_synced": true,
+      "path": "select/12_Plenty_Nonsense_Femi_Kuti.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nonsense",
+      "artist": "Comethazine",
+      "has_synced": true,
+      "path": "select/13_Nonsense_Comethazine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nonsense",
+      "artist": "Cursive",
+      "has_synced": false,
+      "path": "select/14_Nonsense_Cursive.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dynamite Nonsense",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/15_Dynamite_Nonsense_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nonsense",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/16_Nonsense_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HEART NONSENSE - REBOOT ver.",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/17_HEART_NONSENSE_-_REBOOT_ver._Kairiki_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nonsense",
+      "artist": "夜々",
+      "has_synced": false,
+      "path": "select/pl_01_Nonsense_夜々.txt"
+    }
+  ]
+}
